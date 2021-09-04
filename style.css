@@ -1,0 +1,34 @@
+#header {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url(/additional_files/header.webp);
+}
+
+#Brushes {
+  background-color: mediumspringgreen;
+}
+
+#Frames {
+  background-color: lightcoral;
+}
+
+#Paint {
+  background-color: skyblue;
+}
+
+span.highlight {
+  font-weight: bold;
+  color: blue;
+}
+
+h2.subsection {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
